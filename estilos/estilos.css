@@ -1,0 +1,11 @@
+#container{
+    text-align: left;
+    width:  70%;
+    padding:  10;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+#container-titulo{
+color: blue;
+
+}
